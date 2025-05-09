@@ -1,0 +1,13 @@
+{
+  "name": "work-life-balance-audit",
+  "version": "1.0.0",
+  "description": "Work-Life Balance Audit for Women Entrepreneurs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}
